@@ -1,0 +1,2 @@
+"""Boss Agent application package."""
+
